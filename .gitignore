@@ -1,2 +1,9 @@
 lgad.cpp-output/
+main-input/
+feedback-scan-dump/
 *.csv
+*.gif
+w(x,t)_dump/
+w(x,t)_dump2/
+oldstrip_outputs/
+position_scan_files/
